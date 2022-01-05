@@ -12,5 +12,6 @@ c = a + b;
 cout << "The sum of the entered numbers = " << c << endl;
 c = a - b;
 cout << "The difference between the entered numbers = " << c << endl;
-return 0;
+c = a * b;
+cout << "The product of the entered numbers = " << c << endl;
 }
